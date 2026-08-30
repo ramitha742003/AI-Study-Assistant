@@ -96,3 +96,14 @@ The app handles the common failure cases so it doesn't just crash:
   demo end-to-end.
 
 ## Images
+
+<img width="940" height="361" alt="image" src="https://github.com/user-attachments/assets/e06c280e-d6ed-4579-974d-7ce90feeb8a3" />
+
+<img width="940" height="427" alt="image" src="https://github.com/user-attachments/assets/364c65c8-37ff-43b8-a255-ab83b3162e23" />
+
+<img width="940" height="416" alt="image" src="https://github.com/user-attachments/assets/d6241aaa-8568-4fc1-9e08-28d0fbf23fd4" />
+
+
+
+
+
