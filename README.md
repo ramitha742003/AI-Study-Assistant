@@ -1,7 +1,7 @@
 # 📚 AI Study Assistant
 
 A simple Streamlit app that turns any topic into a quick study guide using
-the Claude API: a plain-language explanation, key points, a real-world
+the Google Gemini API: a plain-language explanation, key points, a real-world
 example, and a 3-question quiz.
 
 ## Project Structure
