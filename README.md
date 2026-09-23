@@ -8,7 +8,7 @@ example, and a 3-question quiz.
 
 ```
 ai-study-assistant/
-├── app.py             # Streamlit app (UI + Claude API call)
+├── app.py             # Streamlit app (UI + Gemini API call)
 ├── .env                # Your API key (not committed to git)
 ├── .gitignore
 ├── requirements.txt
